@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "自然辩证法 2026",
   description: "当代科学视野下的唯物辩证法重塑",
-  base: '/2026/', // 完美匹配你改名后的新仓库 2026
+  base: '/2026/', 
   
   locales: {
     root: {
@@ -15,7 +15,7 @@ export default defineConfig({
           {
             text: '第一部分：导言与历史',
             items: [
-              { text: '第一章：导言 (原文与当代评注)', link: '/chapter-1' }
+              { text: '第一章：导言', link: '/chapter-1' }
             ]
           }
         ]
@@ -31,7 +31,7 @@ export default defineConfig({
           {
             text: 'Part 1: Intro',
             items: [
-              { text: 'Chapter 1: Intro (with 21st-C Commentary)', link: '/en/chapter-1' }
+              { text: 'Chapter 1: Intro', link: '/en/chapter-1' }
             ]
           }
         ]
