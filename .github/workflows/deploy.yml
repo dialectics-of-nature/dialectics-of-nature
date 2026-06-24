@@ -1,4 +1,4 @@
-name: Deploy VitePress site to Pages
+name: Deploy Static Content to Pages
 
 on:
   push:
@@ -22,20 +22,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-      - name: Install dependencies
-        run: npm set uses-v1=false && npm add -D vitepress vue
-      - name: Build with VitePress
-        run: npx vitepress build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .vitepress/dist
+          path: '.'
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
