@@ -1,4 +1,4 @@
-# 📖 自然辩证法 2026 / Dialectics of Nature 2026
+# 📖 自然辩证法 / Dialectics of Nature
 
 当代科学视野下的唯物辩证法重塑与人类公共积累。  
 An open-source collaborative project reshaping materialist dialectics through 21st-century science.
@@ -7,8 +7,8 @@ An open-source collaborative project reshaping materialist dialectics through 21
 
 ## 🌍 快捷通道 / Quick Links
 
-* 🌐 **【在线阅读 / Live Website】**：[点击直接阅读 / Click here to read the published pages](https://dialectics-of-nature.github.io/2026/)
-* 💬 **【学术辩论 / Academic Forum】**：[点击进入 Issues 参与学术对线 / Click here to open an Issue and join the debate](https://github.com/dialectics-of-nature/2026/issues)
+* 🌐 **【在线阅读 / Live Website】**：[点击直接阅读 / Click here to read the published pages](https://praxising.github.io/dialectics-of-nature/)
+* 💬 **【学术辩论 / Academic Forum】**：[点击进入 Issues 参与学术对线 / Click here to open an Issue and join the debate](https://github.com/praxising/dialectics-of-nature/issues)
 
 ---
 
@@ -29,7 +29,7 @@ An open-source collaborative project reshaping materialist dialectics through 21
 ### ⚡ 2. 经典文本逻辑辩论
 * **适用场景**：指出经典文本在逻辑推导上的时代局限性。这涉及重大理论动刀，需要全球学者集体智慧的碰撞。
 * **💬 快捷操作路径**：
-  1. 点击快捷通道的 [【学术思想辩论区】](https://github.com/dialectics-of-nature/2026/issues) 进入论坛。
+  1. 点击快捷通道的 [【学术思想辩论区】](https://github.com/praxising/dialectics-of-nature/issues) 进入论坛。
   2. 点击右上角绿色的 **New issue** 按钮。
   3. 标题注明 `【逻辑辩论】`，发帖写下你的推导过程，大家会在评论区展开精细化辩论。
 
@@ -58,7 +58,7 @@ Please choose the most suitable path based on your contribution purpose:
 ### ⚡ 2. Logical Debates
 * **When to use**: Pointing out chronological limitations or logical gaps in the classic text's reasoning. This involves core theoretical changes and requires global academic debate.
 * **💬 Operation Steps**:
-  1. Click the [Academic Forum](https://github.com/dialectics-of-nature/2026/issues) link in the Quick Links section above.
+  1. Click the [Academic Forum](https://github.com/praxising/dialectics-of-nature/issues) link in the Quick Links section above.
   2. Click the green **New issue** button in the top right corner.
   3. Add `[Logical Debate]` to your title, write down your argument, and join the discussion in the comments.
      
