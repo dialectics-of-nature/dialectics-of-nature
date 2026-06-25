@@ -1,9 +1,9 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "自然辩证法 2026",
+  title: "自然辩证法",
   description: "当代科学视野下的唯物辩证法重塑",
-  base: '/2026/', 
+  base: '/dialectics-of-nature/', 
   
   locales: {
     root: {
