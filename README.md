@@ -1,52 +1,45 @@
-# Dialectics of Nature 2026 / 自然辩证法 2026
+# 📖 自然辩证法 2026 / Dialectics of Nature 2026
 
-Welcome to the global, open-source collaborative project dedicated to updating and evaluating Friedrich Engels' *Dialectics of Nature* in the light of 21st-century scientific breakthroughs. 
-
-欢迎来到《自然辩证法 2026》全球开源协作项目。本项目致力于结合 21 世纪的前沿科学突破，对弗里德里希·恩格斯的经典著作《自然辩证法》进行当代的校正、更新与重塑。
-
----
-
-## 🎯 Project Manifesto / 项目宣言
-
-### English
-Engels’ *Dialectics of Nature* (written between 1873–1882) was a monumental attempt to grasp the movement of the material world. However, limited by 19th-century scientific data, many specific assertions have historical boundaries. Today, we are not looking to dogmatically defend every line Engels wrote, but rather to use his own dialectical method to develop and correct his theories.
-
-This project introduces a shift in the philosophy of science—moving from a naive "objective truth" (viewing truth as a stagnant external reality independent of human action) toward **"species-objectivity"** (类客观性). As "species-beings" (类存在物), our scientific truths are shaped through humanity's collective practice and material transformation with nature. 
-
-By re-examining natural sciences—such as Quantum Entanglement, Chaos Theory, and Synthetic Biology—through this lens of *species-objectivity*, we aim to fundamentally reshape the discipline of "science" itself. We are in dire need of a contemporary "Engels" to upgrade this philosophical framework for the 21st century.
-
-### 简体中文
-恩格斯的《自然辩证法》（写于 1873–1882 年）是人类把握物质世界运动的一次伟大尝试。然而，受限于 19 世纪的科学水平，书中的许多具体科学论述具有历史局限性。今天，我们并非要教条地捍卫恩格斯的每一行字，而是要用他本人的辩证方法，来发展和校正他自己的理论。
-
-本项目试图引入一种科学哲学视角的转向——从旧的、僵死的“客观真理观”（认为真理是完全独立于人类实践之外的外部真相），转向人类的**“类客观性”**（Species-Objectivity）。人是“类存在物”（Species-being），人类的科学真理是在其共同的、长期的社会实践以及与自然的物质变换中生成的。
-
-当我们站在“类客观性”的全新高度，重新审视**量子纠缠、混沌理论、合成生物学**等当代前沿科学问题时，这将彻底重塑人类“科学”这门学科。距离本书发表已过去一百多年，我们迫切需要一个当代的“恩格斯群落”，来共同写就一本《当代自然辩证法》。
+当代科学视野下的唯物辩证法重塑与人类公共积累。  
+An open-source collaborative project reshaping materialist dialectics through 21st-century science.
 
 ---
 
-## 🗺🗺️ Roadmap / 协作路线图
+### 🌍 快捷通道 / Quick Links
 
-1. **Text Digitization (Current)**: Uploading standard authoritative texts of *Dialectics of Nature* in multiple languages (EN, ZH, DE).
-2. **Scientific Commentaries (Open for PRs)**: Global scholars and scientists are invited to submit "Commentary Branches" to verify, correct, or expand Engels' chapters using modern science.
-3. **VitePress Live Deployment**: Building a beautifully structured interactive online book for global reading.
-
-1. **底本数字化（当前阶段）**：录入中、英、德多语言的标准权威《自然辩证法》文本。
-2. **科学评注（开放协作）**：邀请全球科学家与学者提交“修改分支”，用当代科学证据去校正、支撑或延伸恩格斯的章节。
-3. **在线书本发布**：基于 VitePress 部署一个排版精美的多语言动态在线文献库。
+* 🌐 **【在线阅读大门】(精美网页版)**：[点击直接访问网站](https://dialectics-of-nature.github.io/2026/)
+* 💬 **【学术思想辩论区】(留言论坛)**：[点击进入 Issues 提交你的理论见解](https://github.com/dialectics-of-nature/2026/issues)
 
 ---
 
-## 🤝 How to Contribute / 如何参与
+### 📂 语言版本与修订入口 / Language Versions
 
-- **Scientists**: Help us identify which of Engels' 19th-century views clash with contemporary physics, biology, or chemistry, and provide modern evidence.
-- **Philosophers / Scholars**: Help refine the theoretical framework of "species-objectivity" and translate newly submitted scientific commentaries across languages.
-- **科学家**：帮助我们指出恩格斯 19 世纪的观点中哪些与当代科学相冲突，并提供现代科学（如非线性动力学、量子力学）的支撑。
-- **哲学家/语言学者**：深化“类客观性”的理论思辨，并协助将新提交的科学评注在各语言（英/中/德）版本间进行同步翻译。
+为了确保中英双语的平权协同，文本内容已按语言收纳至独立文件夹中。请点击下方链接直接进入对应文章：
+
+* 🇨🇳 **中文版文本 (Chinese Version)**  
+  👉 点击进入目录：[【 🇨🇳 zh/ 文件夹 】](zh/)  
+  👉 直接阅读/修订第一章：[chapter-1.md (中文)](zh/chapter-1.md)
+
+* 🇬🇧 **英文版文本 (English Version)**  
+  👉 点击进入目录：[【 🇬🇧 en/ 文件夹 】](en/)  
+  👉 直接阅读/修订第一章：[chapter-1.md (English)](en/chapter-1.md)
 
 ---
 
-## ⚖️ License / 开源协议
+### ✍️ 零基础参与协同指南 (How to Participate)
 
-This project is licensed under **CC BY-NC-SA 4.0** (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International). This ensures our collective academic achievements remain a public, non-commercial accumulation of humankind.
+无论你是想修正一个错别字，还是想对某个理论观点展开长篇大论，我们都为你准备了最简单的参与方式：
 
-本项目采用 **CC BY-NC-SA 4.0** 开源协议。这确保了全球学者共同劳动的学术成果能够成为人类的公共积累，免受资本的异化与商业垄断。
+#### 💡 方式一：微观修订（直接改字/改词）
+1. 点击上方链接进入具体文章（如 `zh/chapter-1.md`）。
+2. 点击页面右上方长得像小铅笔的图标 **✏️ (Edit this file)**。
+3. **直接在文本框里像用 Word 一样修改或添加内容。**
+4. 修改完后，点击右上角绿色的 **Commit changes...** 按钮提交申请。主编审批后，你的贡献就会瞬间并入正式网站！
+
+#### 💡 方式二：宏观辩论（行内对线）
+如果你对文章里某一句话有不同看法，在按照“方式一”提交修改后，你可以在对比页面中将鼠标悬停在对应行，点击出现的蓝色 **“+”号**。在这里，你可以跟全球的学者针对具体某一个词句展开精细化的针锋相对与学术探讨。
+
+---
+
+> 🛠 **系统提示（给技术协作者）**：  
+> 根目录下的 `.github`、`.vitepress` 和 `index.html` 为网站自动化部署与运行的底层承重墙，请勿随意移动或修改。
