@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: 自然辩证法 / Dialectics of Nature
+description: 当代科学视野下的唯物辩证法重塑与人类公共积累
+
+# 告诉 Jekyll 允许在子目录中正确解析相对路径
+permalink: /:path/
