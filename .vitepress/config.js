@@ -10,7 +10,7 @@ export default defineConfig({
       label: '简体中文',
       lang: 'zh-CN',
       themeConfig: {
-        nav: [{ text: '首页', link: '/' }],
+        nav: [{ text: '首页', link: '/zh/' }],
         sidebar: [
           {
             text: '第一部分：导言与历史',
