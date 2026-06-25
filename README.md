@@ -7,21 +7,20 @@ An open-source collaborative project reshaping materialist dialectics through 21
 
 ## 🌍 快捷通道 / Quick Links
 
-* 🌐 **【在线阅读大门 / Live Website】**：[点击直接访问精美网页 / Click here to read the published pages](https://dialectics-of-nature.github.io/2026/)
+* 🌐 **【在线阅读 / Live Website】**：[点击直接阅读 / Click here to read the published pages](https://dialectics-of-nature.github.io/2026/)
 * 💬 **【学术思想辩论区 / Academic Forum】**：[点击进入 Issues 参与学术对线 / Click here to open an Issue and join the debate](https://github.com/dialectics-of-nature/2026/issues)
 
 ---
 
-## 📂 语言版本与修订入口 / Language Versions & Entries
+## 📂 修订入口 /  Entries
 
 为了确保中英双语的平权协同，文本内容已按语言收纳至独立文件夹中：
 
 * 🇨🇳 **中文版文本 (Chinese Version)**  
-  👉 进入目录：[【 🇨🇳 zh/ 文件夹 】](zh/) ➡️ 直接阅读/修订：[chapter-1.md (中文)](zh/chapter-1.md)
+  👉 进入目录：[【 🇨🇳 zh/ 文件夹 】](zh/) 
 
 * 🇬🇧 **英文版文本 (English Version)**  
-  👉 Browse directory: [【 🇬🇧 en/ Folder 】](en/) ➡️ Read/Edit directly: [chapter-1.md (English)](en/chapter-1.md)
-
+  👉 Browse directory: [【 🇬🇧 en/ Folder 】](en/) 
 ---
 
 ## 🇨🇳 协同修订指南 (中文版)
